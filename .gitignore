@@ -88,3 +88,6 @@ Temporary Items
 .apdisk
 # Ignore application configuration
 /config/application.yml
+
+# IntelliJ
+.idea/
