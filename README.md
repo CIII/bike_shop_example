@@ -1,5 +1,3 @@
-# Interview Assignment
-
 ## Part 1:
 
 Factories used for testing are notoriously known to be potentially slow due to dependent associations. Designing factories with unnecessary associations causes excessive object creation, which in turn can cause test performance issues. For this assignment, we are interested in analyzing our factories and determining how many other records a single factory creates.
